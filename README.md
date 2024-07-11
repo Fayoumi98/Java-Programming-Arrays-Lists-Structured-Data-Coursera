@@ -1,1 +1,2 @@
-# Java-Programming-Arrays-Lists-Structured-Data-Coursera
+# Duke University - Java Programming: Programming Arrays Lists Structured Data - Coursera
+
